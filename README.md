@@ -1,2 +1,1 @@
-# techdegree-project-example
- My example repository
+# Techdegree Project Example
